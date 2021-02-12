@@ -1,0 +1,97 @@
+Task ID: '5e73d3330895fafb4a9d8d4b'.
+Total estimated consumption: 46454.32 processing units.
+Task confirmed. Starting download..
+4.0 %
+8.0 %
+12.0 %
+16.0 %
+20.0 %
+24.0 %
+28.0 %
+32.0 %
+36.0 %
+40.0 %
+44.0 %
+48.0 %
+52.0 %
+56.0 %
+60.0 %
+64.0 %
+68.0 %
+72.0 %
+76.0 %
+80.0 %
+84.0 %
+88.0 %
+92.0 %
+96.0 %
+100.0 % completed.
+  confirmed deaths   timestamp  ... latitude recovered countryregion
+0         1      0  1584561183  ...  42.7087         0    Montenegro
+1        74      7  1584561183  ...  28.0339        12       Algeria
+2        77      2  1584561183  ...  37.7693         0            US
+3       173      3  1584561183  ...  31.0545         0            US
+4         3      0  1584561183  ...    -20.2         0     Mauritius
+5        33      0  1584559983  ...  41.6809         0            US
+6      2495     16  1584559983  ...  42.1657         0            US
+7       257      4  1584559983  ...  31.1695         0            US
+8        46      0  1584559983  ...  32.3182         0            US
+9        42      0  1584559983  ...  44.6939         0            US
+
+[10 rows x 8 columns]
+------------------------------------------------
+API call error: There are not enough processing units to complete this task. Please upgrade your account in https://www.openblender.io/ at $0.0001 USD/unit.
+------------------------------------------------
+
+{"status": "internal error", "msg": "'bool' object is not subscriptable"}
+------------------------------------------------
+API call error: There are not enough processing units to complete this task. Please upgrade your account in https://www.openblender.io/ at $0.0001 USD/unit.
+------------------------------------------------
+
+{"status": "internal error", "msg": "'bool' object is not subscriptable"}
+------------------------------------------------
+API call error: There are not enough processing units to complete this task. Please upgrade your account in https://www.openblender.io/ at $0.0001 USD/unit.
+------------------------------------------------
+
+{"status": "internal error", "msg": "'bool' object is not subscriptable"}
+------------------------------------------------
+API call error: There are not enough processing units to complete this task. Please upgrade your account in https://www.openblender.io/ at $0.0001 USD/unit.
+------------------------------------------------
+
+{"status": "internal error", "msg": "'bool' object is not subscriptable"}
+------------------------------------------------
+API call error: There are not enough processing units to complete this task. Please upgrade your account in https://www.openblender.io/ at $0.0001 USD/unit.
+------------------------------------------------
+
+{"status": "internal error", "msg": "'bool' object is not subscriptable"}
+------------------------------------------------
+API call error: There are not enough processing units to complete this task. Please upgrade your account in https://www.openblender.io/ at $0.0001 USD/unit.
+------------------------------------------------
+
+{"status": "internal error", "msg": "'bool' object is not subscriptable"}
+------------------------------------------------
+API call error: There are not enough processing units to complete this task. Please upgrade your account in https://www.openblender.io/ at $0.0001 USD/unit.
+------------------------------------------------
+
+{"status": "internal error", "msg": "'bool' object is not subscriptable"}
+------------------------------------------------
+API call error: There are not enough processing units to complete this task. Please upgrade your account in https://www.openblender.io/ at $0.0001 USD/unit.
+------------------------------------------------
+
+{"status": "internal error", "msg": "'bool' object is not subscriptable"}
+------------------------------------------------
+API call error: There are not enough processing units to complete this task. Please upgrade your account in https://www.openblender.io/ at $0.0001 USD/unit.
+------------------------------------------------
+
+{"status": "internal error", "msg": "'bool' object is not subscriptable"}
+  comid geogname  ... percent_change_1996_2006 percent_change_2001_2011
+0   can   Canada  ...                      9.2                     11.6
+
+[1 rows x 13 columns]
+Index(['comid', 'geogname', 'datagroup1', 'datagroup1_order', 'datagroup2',
+       '_1991', '_1996', '_2001', '_2006', '_2011', 'percent_change_1991_2001',
+       'percent_change_1996_2006', 'percent_change_2001_2011'],
+      dtype='object')   comid geogname  ... percent_change_1996_2006 percent_change_2001_2011
+0   can   Canada  ...                      9.2                     11.6
+
+[1 rows x 13 columns]
